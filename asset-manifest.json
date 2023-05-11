@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/revision-team.github.io/admin2/static/css/main.073c9b0a.css",
-    "main.js": "/revision-team.github.io/admin2/static/js/main.3989a57e.js",
-    "static/js/787.b5629dd8.chunk.js": "/revision-team.github.io/admin2/static/js/787.b5629dd8.chunk.js",
-    "static/media/logo.svg": "/revision-team.github.io/admin2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/revision-team.github.io/admin2/index.html",
-    "main.073c9b0a.css.map": "/revision-team.github.io/admin2/static/css/main.073c9b0a.css.map",
-    "main.3989a57e.js.map": "/revision-team.github.io/admin2/static/js/main.3989a57e.js.map",
-    "787.b5629dd8.chunk.js.map": "/revision-team.github.io/admin2/static/js/787.b5629dd8.chunk.js.map"
+    "main.css": "/admin2/static/css/main.073c9b0a.css",
+    "main.js": "/admin2/static/js/main.98122cde.js",
+    "static/js/787.b5629dd8.chunk.js": "/admin2/static/js/787.b5629dd8.chunk.js",
+    "static/media/logo.svg": "/admin2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/admin2/index.html",
+    "main.073c9b0a.css.map": "/admin2/static/css/main.073c9b0a.css.map",
+    "main.98122cde.js.map": "/admin2/static/js/main.98122cde.js.map",
+    "787.b5629dd8.chunk.js.map": "/admin2/static/js/787.b5629dd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3989a57e.js"
+    "static/js/main.98122cde.js"
   ]
 }
